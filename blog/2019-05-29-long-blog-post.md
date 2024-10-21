@@ -1,10 +1,4 @@
----
-slug: long-blog-post
-title: Long Blog Post
-image: https://res.cloudinary.com/thanhnam/image/upload/v1715191314/project/docusaurus-material-ui-template/blog-cover_dczcj6.jpg
-authors: [endi, yangshun]
-tags: [hello, docusaurus]
----
+# Long Blog Post
 
 This is the summary of a very long blog post,
 
